@@ -2,4 +2,4 @@
 <h2>Lembrando que esta em processo de conclusão e ainda não cobre a média de 70% das saídas como deveria.</h2>
 
 <img src="https://user-images.githubusercontent.com/71628988/142801826-83144408-48c7-4af7-8009-eac9041950ef.PNG" width ="800px" higth ="400px">
-<p>Teste executado para criar um registro,sem bug na saída</p>
+<p>Teste executado para criar um registro,sem bug na saída.</p>
